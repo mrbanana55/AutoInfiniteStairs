@@ -1,3 +1,4 @@
+#meant to be used with https://infinitestairs.io/
 import pyautogui
 import time
 import keyboard
